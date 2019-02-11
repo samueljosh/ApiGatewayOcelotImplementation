@@ -1,0 +1,14 @@
+C:\Users\OTC91017\Desktop\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.deps.json
+C:\Users\OTC91017\Desktop\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.runtimeconfig.json
+C:\Users\OTC91017\Desktop\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.runtimeconfig.dev.json
+C:\Users\OTC91017\Desktop\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.dll
+C:\Users\OTC91017\Desktop\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.pdb
+C:\Users\OTC91017\Desktop\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.csprojAssemblyReference.cache
+C:\Users\OTC91017\Desktop\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.csproj.CoreCompileInputs.cache
+C:\Users\OTC91017\Desktop\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.RazorAssemblyInfo.cache
+C:\Users\OTC91017\Desktop\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.RazorAssemblyInfo.cs
+C:\Users\OTC91017\Desktop\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.AssemblyInfoInputs.cache
+C:\Users\OTC91017\Desktop\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.AssemblyInfo.cs
+C:\Users\OTC91017\Desktop\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.RazorTargetAssemblyInfo.cache
+C:\Users\OTC91017\Desktop\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.dll
+C:\Users\OTC91017\Desktop\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.pdb

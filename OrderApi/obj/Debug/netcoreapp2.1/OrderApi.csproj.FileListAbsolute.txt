@@ -1,0 +1,14 @@
+C:\Users\OTC91017\Desktop\ApiGatewayExample\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.csprojAssemblyReference.cache
+C:\Users\OTC91017\Desktop\ApiGatewayExample\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.csproj.CoreCompileInputs.cache
+C:\Users\OTC91017\Desktop\ApiGatewayExample\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.RazorAssemblyInfo.cache
+C:\Users\OTC91017\Desktop\ApiGatewayExample\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.RazorAssemblyInfo.cs
+C:\Users\OTC91017\Desktop\ApiGatewayExample\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.AssemblyInfoInputs.cache
+C:\Users\OTC91017\Desktop\ApiGatewayExample\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.AssemblyInfo.cs
+C:\Users\OTC91017\Desktop\ApiGatewayExample\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.deps.json
+C:\Users\OTC91017\Desktop\ApiGatewayExample\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.runtimeconfig.json
+C:\Users\OTC91017\Desktop\ApiGatewayExample\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.runtimeconfig.dev.json
+C:\Users\OTC91017\Desktop\ApiGatewayExample\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.dll
+C:\Users\OTC91017\Desktop\ApiGatewayExample\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.pdb
+C:\Users\OTC91017\Desktop\ApiGatewayExample\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.RazorTargetAssemblyInfo.cache
+C:\Users\OTC91017\Desktop\ApiGatewayExample\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.dll
+C:\Users\OTC91017\Desktop\ApiGatewayExample\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.pdb
